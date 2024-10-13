@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 803bcedf009b8ca4b9ec4d0f9ab45b34
+  - enabled: 1
+    path: Assets/Scenes/PlayerSetupTR.unity
+    guid: 39451b920a78e3d40b78726fb9304849
+  - enabled: 1
+    path: Assets/Scenes/TimeRaceScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PlayerSetupLM.unity
+    guid: 10f3e0aef1723f8498aa63a7eca42d50
+  - enabled: 1
+    path: Assets/Scenes/LocalMultiplayerScene.unity
+    guid: e39e43cebf52fd6438103d5f32ada163
+  m_configObjects: {}

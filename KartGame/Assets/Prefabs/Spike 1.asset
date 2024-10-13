@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff5111a34a8077e45948a584f6f3f22b, type: 3}
+  m_Name: Spike 1
+  m_EditorClassIdentifier: 
+  Name: Spike
+  type: 1
+  description: Places a spike trap behind the player that slows a player that collides
+    with it
+  uses: 1
+  boost: []
+  spikePrefab: {fileID: 7157017699688971606, guid: d5230baf2231f314492b18dac896b2d3,
+    type: 3}
+  visual: {fileID: 21300000, guid: e7b5066da8a4efa4da31be80d5f15344, type: 3}
