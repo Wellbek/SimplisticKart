@@ -11,13 +11,9 @@ This is a **Mario Kart-inspired racing game** created in Unity during my school 
 - **Item Boxes**: Multiplayer mode includes item boxes
 - **Controller Support**: The game is designed to be played with controllers
 
-## 📸 Screenshots
-*(Add screenshots here)*
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-
 ## 🎥 Videos
+
+https://github.com/user-attachments/assets/0154738d-a64d-4b24-b91c-9614fdff1438
 
 ## 📄 Credits
 - **Assets**: All assets used in this game are third-party and not created by me.
