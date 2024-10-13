@@ -1,4 +1,4 @@
-# Mario Kart-Like Racing Game
+# Simplistic Kart
 
 ## 🎮 Overview
 This is a **Mario Kart-inspired racing game** created in Unity during my school break in 2020. It features classic mechanics such as drifting, boosting, and item boxes. The game includes two main modes:
